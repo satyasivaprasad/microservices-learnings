@@ -8,7 +8,7 @@ import ms.learnings.orderservice.model.OrderLineItems;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2023-03-23T18:54:34+0530",
+    date = "2023-03-24T00:05:30+0530",
     comments = "version: 1.5.3.Final, compiler: IncrementalProcessingEnvironment from gradle-language-java-7.6.1.jar, environment: Java 19.0.1 (Oracle Corporation)"
 )
 public class OrderMapperImpl implements OrderMapper {
